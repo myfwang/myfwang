@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there! I'm Matthew.
+
+I'm a final year computer science student and software developer!
+
+If I'm not working on code, I'm either playing basketball, sewing, or pondering life.
+
+Please reach out to me at matthewyw04@gmail.com
 
 <!--
 **myfwang/myfwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
